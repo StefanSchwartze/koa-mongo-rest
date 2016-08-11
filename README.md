@@ -1,3 +1,5 @@
+This is a fork from Koa-mongo-rest (licensed with BSD-2-Clause) by @t3chnoboy and updated with the code from @tomaash, which can be found at https://github.com/tomaash/react-example-filmdb/tree/master/server/restable (licensed with MIT and BSD-2-Clause)
+
 # Koa mongo REST [![NPM version](https://badge.fury.io/js/koa-mongo-rest.svg)](http://badge.fury.io/js/koa-mongo-rest) [![Dependency Status](https://gemnasium.com/t3chnoboy/koa-mongo-rest.svg)](https://gemnasium.com/t3chnoboy/koa-mongo-rest) [![Build Status](https://travis-ci.org/t3chnoboy/koa-mongo-rest.svg?branch=master)](https://travis-ci.org/t3chnoboy/koa-mongo-rest)
 
 Easy REST api for [koa](http://koajs.com) server  
